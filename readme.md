@@ -1,4 +1,4 @@
-# 🛡️ cfbuster v1
+# 🛡️ cfbuster v1 
 
 **cfbuster** é uma ferramenta de reconhecimento ofensivo e evasão inteligente de infraestrutura web, projetada para **descobrir subdomínios reais, identificar IPs de origem expostos mesmo atrás da Cloudflare e outras CDNs**, e **testar proteção anti-bot (UAM)** em modo totalmente automatizado.
 
